@@ -1,0 +1,2 @@
+The data format:
+Example: gt_1_gt_6_30.mat means a gt happened at the 1st second, then another gt happened at the 6th second, and the entire signal lenght is 30 second.
